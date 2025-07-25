@@ -1,2 +1,2 @@
 # GreenCap
-storage
+storage for stuffs n shit
